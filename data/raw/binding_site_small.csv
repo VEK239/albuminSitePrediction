@@ -1,0 +1,50 @@
+ligand,smiles,cat0,cat1,cat2,cat3
+bicalutamide  ,  CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O,1,0,0,0
+idarubicine  ,  CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O,1,0,0,0
+teniposide  ,  COC1=CC(=CC(=C1O)OC)C2C3C(COC3=O)C(C4=CC5=C(C=C24)OCO5)OC6C(C(C7C(O6)COC(O7)C8=CC=CS8)O)O,1,0,0,0
+halothane  ,  C(C(F)(F)F)(Cl)Br,0,0,1,0
+propofol  ,  CC(C)C1=C(C(=CC=C1)C(C)C)O,0,0,1,0
+azapropazone  ,  CCCC1C(=O)N2C3=C(C=CC(=C3)C)N=C(N2C1=O)N(C)C,0,1,0,0
+ibuprofen  ,  CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,0,0,1,0
+diazepam  ,  CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,0,0,1,0
+indoxyl sulfate  ,  C1=CC=C2C(=C1)C(=CN2)OS(=O)(=O)O,0,0,0,1
+diflunisal  ,  C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,0,0,0,1
+Dansyl-L-norvaline,  CCCC(C(=O)O)NS(=O)(=O)C1=CC=CC2=C1C=CC=C2N(C)C,0,0,1,0
+Dansyl-L-sarcosine,  CN(C)C1=CC=CC2=C1C=CC=C2S(=O)(=O)N(C)CC(=O)O,0,0,1,0
+Dansyl-L-asparagine,  CN(C)C1=CC=CC2=C1C=CC=C2S(=O)(=O)NC(CC(=O)N)C(=O)O,0,0,0,1
+Dansyl-L-phenylalanine,  CN(C)C1=CC=CC2=C1C=CC=C2S(=O)(=O)NC(CC3=CC=CC=C3)C(=O)O,0,0,0,1
+4-phenylbutyrate  , C1=CC=C(C=C1)CCCC(=O)[O],0,0,1,0
+amantadine  ,  C1C2CC3CC1CC(C2)(C3)N,0,1,0,0
+aripiprazole  ,  C1CC(=O)NC2=C1C=CC(=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl,0,0,1,0
+etoposide  ,  CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O,1,0,0,0
+9-Aminocamptothecin  ,  CCC1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC=C5N=C4C3=C2)N)O,1,0,0,0
+oxyphenbutazone  ,  CCCCC1C(=O)N(N(C1=O)C2=CC=C(C=C2)O)C3=CC=CC=C3,0,1,0,0
+"3,5-diiodosalicylic acid  ",  C1=C(C=C(C(=C1C(=O)O)O)I)I,0,0,0,1
+capric acid  ,  CCCCCCCCCC(=O)O,0,0,0,1
+zidovudine  ,  CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N],0,1,0,0
+naproxen  ,  CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,0,0,1,0
+fusidic acid  ,  CC1C2CCC3(C(C2(CCC1O)C)C(CC4C3(CC(C4=C(CCC=C(C)C)C(=O)O)OC(=O)C)C)O)C,1,0,0,0
+warfarin  ,  CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O,0,1,0,0
+stearic acid  ,  CCCCCCCCCCCCCCCCCC(=O)O,0,0,1,0
+Suprofen  ,  CC(C1=CC=C(C=C1)C(=O)C2=CC=CS2)C(=O)O,0,0,1,0
+phenylbutazone  ,  CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3,0,1,0,0
+oxyphenbutazone  ,  CCCCC1C(=O)N(N(C1=O)C2=CC=C(C=C2)O)C3=CC=CC=C3,0,1,0,0
+iodipamide  ,  C1=C(C(=C(C(=C1I)NC(=O)CCCCC(=O)NC2=C(C=C(C(=C2I)C(=O)O)I)I)I)C(=O)O)I,0,1,0,0
+indomethacin  ,  CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,0,1,0,0
+Cetirizine  ,  C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl,1,0,0,0
+testosterone  ,  CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C,1,0,0,0
+"2,3,5-triiodobenzoic acid  ",  C1=C(C=C(C(=C1C(=O)O)I)I)I,0,1,0,0
+ketoprofen  ,  CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,0,0,1,0
+heme  ,  CC1=C(C2=CC3=C(C(=C([N]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N]2)C)C=C)C)C=C)C)CCC(=O)O)CCC(=O)O.[Fe+2],1,0,0,0
+nabumetone  ,  CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC,0,0,1,0
+etodolac  ,  CCC1=C2C(=CC=C1)C3=C(N2)C(OCC3)(CC)CC(=O)O,0,1,0,0
+fructose  ,  C1C(C(C(C(O1)(CO)O)O)O)O,0,1,0,0
+Sulfasalazine  ,  C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N=NC3=CC(=C(C=C3)O)C(=O)O,0,1,0,0
+glucose  ,  C(C1C(C(C(C(O1)O)O)O)O)O,0,1,0,0
+thyroxine  ,  C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,0,0,0,1
+diclofenac  ,  C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC=C2Cl)Cl,0,0,1,0
+dexamethasone  ,  CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,1,0,0,0
+salycilic acid  ,  CC1=C(C(=C(C=C1)C(C)(C)C)O)C(=O)O,0,1,0,0
+aspirin  ,  CC(=O)OC1=CC=CC=C1C(=O)O,0,1,0,0
+benzbromarone  ,  CCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)Br)O)Br,0,0,0,1
+lidocaine  ,  CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,1,0,0,0
